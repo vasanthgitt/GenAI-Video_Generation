@@ -1,0 +1,8 @@
+gradio==3.9.0
+transformers==4.19.2
+google-generativeai
+requests==2.27.1
+Pillow==9.1.0
+gtts==2.2.3
+moviepy==1.0.3
+textwrap3==0.9.2
